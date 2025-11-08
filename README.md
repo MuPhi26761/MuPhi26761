@@ -1,4 +1,4 @@
-# {{Sacha DEGOIX}} — Math & CS student → AI
+# Sacha DEGOIX — Math & CS student → AI
 
 Student in mathematics (pure & applied) and computer science, with a strong interest in AI.
 
@@ -51,11 +51,11 @@ Badges:
 
 ## Selected projects
 
-- **{{Math/Algo — Random graphs}}** —
+- **Math/Algo — Random graphs** —
     
     Theoretical study · Simultations · NumPy/SciPy.
     
-- **{{Maths/CS — Elliptic-curve cryptography}}**
+- **Maths/CS — Elliptic-curve cryptography**
 
 ---
 
@@ -75,7 +75,7 @@ Coming soon
 
 ## Contact & links
 
-{{sacha.degoix@universite-paris-saclay.fr}} · [LinkedIn](https://www.notion.so/Quantization-of-Light-Sacha-DEGOIX-and-Pablo-BERTAUD-VELTEN-fce63a90fa5b47d68942321256a25f94?pvs=21) 
+sacha.degoix@universite-paris-saclay.fr · [LinkedIn](www.linkedin.com/in/sacha-degoix-706063389) 
 
 ---
 
