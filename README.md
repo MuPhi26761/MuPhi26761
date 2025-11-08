@@ -2,11 +2,11 @@
 
 Student in mathematics (pure & applied) and computer science, with a strong interest in AI.
 
-[Open to research](https://img.shields.io/badge/Open%20to-research-0a7ea4?style=flat-square)
-
-[Learning CV/ML](https://img.shields.io/badge/Learning-CV%2FML-6e44ff?style=flat-square)
-
-[Made with Python](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20Python-3776ab?logo=python&style=flat-square)
+[![Open to research](https://img.shields.io/badge/Open%20to-research-0a7ea4?style=flat-square)](#)
+[![Learning ML/DL](https://img.shields.io/badge/Learning-CV%2FML-6e44ff?style=flat-square)](#)
+[![Made with Python](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20Python-3776ab?logo=python&style=flat-square)](#)
+![Open to internships](https://img.shields.io/badge/Open%20to-internships-0a7ea4?style=flat-square)
+![Open to projects](https://img.shields.io/badge/Open%20to-projects-0a7ea4?style=flat-square)
 
 ---
 
@@ -27,25 +27,16 @@ Student in mathematics (pure & applied) and computer science, with a strong inte
 
 Badges:
 
-[Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=flat-square)
-
-[OCaml](https://img.shields.io/badge/OCaml-ec6813?logo=ocaml&logoColor=white&style=flat-square)
-
-[C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599c?logo=cplusplus&logoColor=white&style=flat-square)
-
-[LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
-
-[PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=flat-square)
-
-[TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=white&style=flat-square)
-
-[scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?logo=scikitlearn&logoColor=white&style=flat-square)
-
-[pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-
-[SQL](https://img.shields.io/badge/SQL-3a3a3a?style=flat-square)
-
-[R](https://img.shields.io/badge/R-276dc3?logo=r&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=flat-square)
+![OCaml](https://img.shields.io/badge/OCaml-ec6813?logo=ocaml&logoColor=white&style=flat-square)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599c?logo=cplusplus&logoColor=white&style=flat-square)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=white&style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?logo=scikitlearn&logoColor=white&style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-3a3a3a?style=flat-square)
+![R](https://img.shields.io/badge/R-276dc3?logo=r&logoColor=white&style=flat-square)
 
 ---
 
@@ -81,6 +72,6 @@ sacha.degoix@universite-paris-saclay.fr · [LinkedIn](www.linkedin.com/in/sacha-
 
 ## GitHub stats
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%7B%7Bgithub-username%7D%7D&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%7B%7Bgithub-username%7D%7D&hide_border=true)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=%7B%7Bgithub-username%7D%7D&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuPhi26761&layout=compact&hide_border=true)
