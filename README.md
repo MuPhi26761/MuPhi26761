@@ -3,10 +3,10 @@
 Student in mathematics (pure & applied) and computer science, with a strong interest in AI.
 
 [![Open to research](https://img.shields.io/badge/Open%20to-research-0a7ea4?style=flat-square)](#)
-[![Learning ML/DL](https://img.shields.io/badge/Learning-CV%2FML-6e44ff?style=flat-square)](#)
-[![Made with Python](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20Python-3776ab?logo=python&style=flat-square)](#)
 ![Open to internships](https://img.shields.io/badge/Open%20to-internships-0a7ea4?style=flat-square)
 ![Open to projects](https://img.shields.io/badge/Open%20to-projects-0a7ea4?style=flat-square)
+[![Learning ML/DL](https://img.shields.io/badge/Learning-CV%2FML-6e44ff?style=flat-square)](#)
+[![Made with Python](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20Python-3776ab?logo=python&style=flat-square)](#)
 
 ---
 
@@ -28,15 +28,19 @@ Student in mathematics (pure & applied) and computer science, with a strong inte
 Badges:
 
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=flat-square)
+[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black&style=flat-square)](https://huggingface.co/docs/transformers)
 ![OCaml](https://img.shields.io/badge/OCaml-ec6813?logo=ocaml&logoColor=white&style=flat-square)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599c?logo=cplusplus&logoColor=white&style=flat-square)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=white&style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?logo=scikitlearn&logoColor=white&style=flat-square)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)](https://keras.io)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-3a3a3a?style=flat-square)
 ![R](https://img.shields.io/badge/R-276dc3?logo=r&logoColor=white&style=flat-square)
+[![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)](https://matplotlib.org/)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
 
 ---
 
